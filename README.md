@@ -11,7 +11,7 @@
 - Create Invoice 
 - View Invoice
 - Send Mail : `Using nodemailer`
-- Storage : `Postgres Database`
+- Storage : `Sqlite3 Database`
 
 ## Install Dependencies using NPM
 
